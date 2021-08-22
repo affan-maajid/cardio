@@ -1,0 +1,11 @@
+pandas>=1.2.3
+numpy>=1.19.2
+scikit-learn>=0.24.1
+scipy>=1.6.1
+urllib3>=1.26.3
+gcsfs>=2021.5.0
+h5py>=2.10.0
+firebase-admin>=5.0.0
+pymatreader>=0.0.24
+tensorflow>=2.3.0
+google-cloud-storage>=1.38.0
