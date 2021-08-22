@@ -10,3 +10,11 @@ The system was designed for real time analysis and deployed using the Google Clo
   4) Pushes the results to a connected mobile app for the user to see
 
 A Long-Short Term Memory Recuurent Neural Network was designed to classify the signal as normal/abnormal. The system also calculates the average heart rate using the signal and pushes that information along with the result of the classifier to the user via a mobile app
+
+
+#### Built Using:
+#### Python
+
+#### Libraries:
+
+
