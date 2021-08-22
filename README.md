@@ -16,5 +16,17 @@ A Long-Short Term Memory Recuurent Neural Network was designed to classify the s
 #### Python
 
 #### Libraries:
+* Pandas
+* numpy
+* matplotlib
+* Tensorflow
+* Keras
+* sklearn
+* scipy
+* pymatreader
+* h5py
+* gcsfs
+* firebase_admin
+* urllib
 
 
